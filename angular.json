@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularFirstProject"
+    }
+  },
+  "defaultProject": "AngularFirstProject",
+  "cli": {
+    "analytics": false
+  }
 }
